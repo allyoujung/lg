@@ -1,5 +1,5 @@
 /* 공통속성 */
-.container{ height: inherit; width: 1460px; margin:0 auto; background: rgba(0,0,0,0.1)}
+.container{ height: inherit; width: 1460px; margin:0 auto; background: rgba(0,0,0,0)}
 
 #wrap{}
 #header{width: 100%}
